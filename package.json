@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "description": "Auto Scroll / Reading Helper – for long articles or PDFs. Automatically scrolls webpages with customizable speed and direction.",
+  "license": "MIT",
+  "author": "Nabraj Khadka",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

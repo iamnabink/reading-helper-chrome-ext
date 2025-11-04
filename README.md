@@ -92,3 +92,14 @@ The manifest expects:
 - **Extension**: Webpack + React + Tailwind CSS
 - **Content Script**: Vanilla JavaScript with `requestAnimationFrame` for smooth scrolling
 - **Popup**: React with Tailwind CSS for styling
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+**Nabraj Khadka**
+- GitHub: [@iamnabink](https://github.com/iamnabink)
+- LinkedIn: [iamnabink](https://www.linkedin.com/in/iamnabink/)
+- Website: [nabrajkhadka.com.np](https://nabrajkhadka.com.np/)
